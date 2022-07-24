@@ -1,0 +1,60 @@
+
+    .heading_1{
+        position: absolute;
+        font-size: 35px;
+        color: #8b0000;
+        font-weight: bold;
+        left:530px;
+        width: 380px;
+        top:-15px;
+    }
+
+    .heading_2{
+        position: absolute;
+        font-size: 26px;
+        color: #8b0000;
+        left:465px;
+        width: 510px;
+        top:55px;
+    }
+
+    .formClass{
+        position: absolute;
+        left:570px;
+        width: 300px;
+        top:205px;
+        
+    }
+    .label {
+        display:inline;
+        font-size: 23px;
+        font-weight: bold;
+        
+    }
+    .asterisk{
+        color: red;
+    }
+
+    .button{
+        background-color: #506ba7;
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 65px;
+        border: none;
+        width: 120px;
+    }
+    .button:hover{
+        color: rgb(255, 255, 255);
+        background-color: #2a55b3;
+    }
+    .bloodPressure{
+        font-size: 20px;
+        position: absolute;
+        left:650px;
+        width: 180px;
+        top:330px;
+        font-weight: bold;
+        
+    }
+    
